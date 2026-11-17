@@ -1,0 +1,7 @@
+# Tested with Python 3.13
+numpy
+scipy
+pandas
+scikit-learn
+joblib
+matplotlib
